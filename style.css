@@ -1,0 +1,16 @@
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #FFF;
+    padding: 5px;
+}
+
+body{
+    height: 95vh;
+    width: 95;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: darkgreen;
+    background-color: #000;
+}
